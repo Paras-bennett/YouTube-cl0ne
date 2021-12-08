@@ -22,12 +22,3 @@ npm run start
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 --- 
-## Contact
-
-Sumit Dey- [code.sumax@gmail.com](mailto:code.sumax@gmail.com)
-
-Youtube Channel: [https://www.youtube.com/c/BackbenchCoder](https://www.youtube.com/c/BackbenchCoder)
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
